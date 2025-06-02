@@ -5,6 +5,10 @@ This project processes and visualizes performance data from a photovoltaic (PV) 
 
 ---
 
+
+## Deployment
+Upload combined_file.csv in Streamlit and see the dynamic change in the graph.
+
 ## Dataset Description
 - **Performance Ratio (PR):** Measures daily efficiency of the PV plant. Higher PR indicates better performance.
 - **Global Horizontal Irradiance (GHI):** Measures daily solar irradiation. Higher GHI indicates sunnier days.
@@ -49,6 +53,8 @@ Data is organized in folders by parameter (`PR` and `GHI`), then further subdivi
    - Adjust GHI thresholds or color scheme if desired.
 
 ---
+
+
 
 ## Project Structure
 
